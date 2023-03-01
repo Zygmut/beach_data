@@ -1,0 +1,5282 @@
+[
+  {
+    "name": "Cala Galiota",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 39.3147,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 270,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Coto",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 825,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Raco de sAlga",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 8000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Na Barbera",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1200,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Rambada de la Siquia",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Punta des Tords",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Dofi",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja des Dols",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 40600,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Punta des Coto",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Can Curt",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 700,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Es Carbo Petit",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 12800,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Bassa des Cabot",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 660,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de ses Roquetes",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 16000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja des Port",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 5425,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Raco des Carnatge",
+    "location": "Ses Salines",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 4000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Sa Calobra",
+    "location": "Escorca",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 250,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Tuent",
+    "location": "Escorca",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3200,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Torrent de Pareis",
+    "location": "Escorca",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 450,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Coma",
+    "location": "Sant Llorens",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 28560,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Millor",
+    "location": "Sant Llorens",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 81880,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Banyalbufar",
+    "location": "Banyalbufar",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Port de sa Pedra de sAse",
+    "location": "Banyalbufar",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 400,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Port des Canonge",
+    "location": "Banyalbufar",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Punta de sa Galera",
+    "location": "Banyalbufar",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 750,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja de Son Bunyola",
+    "location": "Banyalbufar",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1800,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Gata",
+    "location": "Banyalbufar",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 375,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Deia",
+    "location": "Deia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 420,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Foradada",
+    "location": "Deia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 500,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Es Canyeret",
+    "location": "Deia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 360,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Es Cuco",
+    "location": "Deia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 90,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Es Ribells",
+    "location": "Son Servera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1710,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala sa Marjal",
+    "location": "Son Servera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 10036,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Costa de los Pinos",
+    "location": "Son Servera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 7500,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Port Roig",
+    "location": "Son Servera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 17600,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Bona",
+    "location": "Son Servera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 9520,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Port Vell",
+    "location": "Son Servera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 180,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja des Ratjoli",
+    "location": "Son Servera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 616,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja dels Maressos",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 640,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Dentol",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 700,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Sa Font Celada",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1200,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Sa Torreta",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 800,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo dels Ermitans",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 800,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Na Clara",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Toro",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2600,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala des Camps",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Mitjana",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 5000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Estreta",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 210,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Platjola",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 3000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Punta des Calo",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 500,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Calo Estret",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Matzoc",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 8000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cales de Betlem",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Mollet",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 750,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Torta",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 15000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Arenal de sa Canova",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 60000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja colonia de Sant Pere",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Mata",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 650,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo des Corb Mari",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 720,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Torrent des Rossillers",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 500,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "SArenalet des Verger",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 5200,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Es Calo",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Porcella",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Na Picarandau",
+    "location": "Arta",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1050,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja den Repic",
+    "location": "Soller",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 5000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Port de Soller",
+    "location": "Soller",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 16000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Carbo",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala en Gossalba",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 555,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Barques",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3400,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja del Port de Pollensa",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 22200,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Can Cullerassa",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 10500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "El Maressar",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 100,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Llenaire",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 24000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Clara",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Formentor",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 12000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "El Calo",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 3500,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja dAlbercuix",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 17400,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Boquer",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1400,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala en Feliu",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1260,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Castell",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 4000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Molins",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2250,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Figuera",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1800,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Estremer",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 500,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Murta",
+    "location": "Pollensa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2125,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja de Muro- Sector I",
+    "location": "Muro",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 54910,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Muro-Es Capellans",
+    "location": "Muro",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 12040,
+    "lifeguard": true,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Muro-Es  Comu",
+    "location": "Muro",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 22305,
+    "lifeguard": true,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Muro- Sector II",
+    "location": "Muro",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 49280,
+    "lifeguard": true,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Port de Valldemossa",
+    "location": "Valldemossa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1350,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Pedra Llarga",
+    "location": "Valldemossa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Calo de sEstaca",
+    "location": "Valldemossa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 120,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja de sHort de sa cova",
+    "location": "Valldemossa",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 5250,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "SArenal den Tem",
+    "location": "Campos",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 16000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Freu de ses Covetes",
+    "location": "Campos",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 600,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "SArenal de sa Rapita",
+    "location": "Campos",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 16500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Ses Covetes",
+    "location": "Campos",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 6000,
+    "lifeguard": true,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Moli de sEstany",
+    "location": "Campos",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 12000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Peregons Petits",
+    "location": "Campos",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Es Trenc",
+    "location": "Campos",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 38000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Peregons Grans",
+    "location": "Campos",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 10000,
+    "lifeguard": true,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala den Marsal",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 18000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala sa Nau",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 4000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Serena",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 800,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Mitjana",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Es Bavo",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Ferrera",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 6000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Brafi",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Salpella",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 0,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja de sAlgar",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 4000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de sArenal",
+    "location": "Felanitx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Calonet des Fornas",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 160,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Maioris",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1680,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Pesquera Plana",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 750,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Pi",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 6300,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calonet de SAlmadrava",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 900,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo de Sant Antoni",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1120,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Beltran",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 3150,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Blava",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 600,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo de ses Lleonardes",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 120,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calonet des Cap Alt",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 105,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es raco de sArena",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 18000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo Fort",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 100,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Delta",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "SArenal de Llucmajor",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 10500,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Vella",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 700,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "El Rentador de la Senyora",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1800,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Mollet de Can Tem des Cafe",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Badia Blava",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Punta de ses Puntes",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 600,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Cova Baixa",
+    "location": "Llucmajor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Engana Pastor",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Falco",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1800,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Magraner",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3127,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "SIllot",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 7840,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Murta",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 105,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo den Rafelino",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 180,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Virgili",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 660,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Varques",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2200,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Sequer",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Asa des Setri",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 40,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Anguila",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 6000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Bota",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 646,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Morlanda",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1080,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Petita",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 540,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Murada",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2703,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Antena",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1972,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Pilota",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1134,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Varques Petita",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 175,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Portocristo",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 8750,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Mendia",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 6090,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Tropicana",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 7564,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Domingos Grans",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 9316,
+    "lifeguard": true,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo des Serral",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 240,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Calo Blanc",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 60,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "SEstany den Mas",
+    "location": "Manacor",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 12150,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Figuereta",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 750,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Calo des Borgit",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 270,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo den Perdiu",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 50,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Es Caragol",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 30000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Sa Faus",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 800,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Santanyi",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 7000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala en Tugores",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Calo de sa Torre",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 240,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo de sa Barca Trencada",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo des Moro",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 750,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala sAlmunia",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo des Marmol",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1400,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "SAmarador",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 7250,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Esmeralda",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Figuera",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 320000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "El Raco de sAlbarda",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 525,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Gran",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 4000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Mondrago",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 4500,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo des Macs",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 350,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala dOr",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Llombards",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 8250,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Els Arenalets",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 200,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Torrent den Barracot",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 450,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Calo des Homos Morts",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 875,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo de ses Egos",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo des Pou",
+    "location": "Santanyi",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Carregador",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 150,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Don Tito",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 120,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Ferradura",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 40,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Molto",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Es Fondalet",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 40,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Pedruscada",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Rotja",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Font de sa Cala",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 6000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Lliteres",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja del Pont",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 75,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Cova des Vellmari",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 525,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Son Besso",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 480,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "SArenal de sa Mesquida",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 45000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": false,
+    "blue_flag": true,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Regana Blava",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "La Cova",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Alberdans",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Nau",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 750,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala nAguait",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Gat",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 800,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Canyamel",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 23200,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de les Roges",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Tamarells",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Son Moll",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 7500,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Raco de les Legitimes",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 250,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "SEscull den Patilla",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 120,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala de na Llobriga",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "NAladern",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 75,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Agulla",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 26000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": false,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Calo des Beato",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Punt del Passeig",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 800,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Punta des Carregador",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 480,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Olla",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 3000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Na Plana",
+    "location": "Capdepera",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 100,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Ferradura",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Punset",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Punta de sa Vinya",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja dAlcudia",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 272000,
+    "lifeguard": true,
+    "parking": false,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Ses Pedretes",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 4000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja dels cecs",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Punta Llarga",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Farayo",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Raco de ses Barreres de sa Comuna",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Ses Pedreres",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 3000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja sa Marina",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 12000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Can Cap de Bou",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 12000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja des Morer Vermell",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 8000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "SIllot",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 4500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "El Niu de sAguila",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de lAlcanada",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 14000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Sant Joan",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Sant Pere",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 15000,
+    "lifeguard": true,
+    "parking": false,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Coll Baix",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 11000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "LEstrella",
+    "location": "Alcudia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Falco",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Puig des Gats",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "La Romana",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 4800,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Punta Negra",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 375,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Cala Vinyes",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 7000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Raco de ses Aguiles",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Son Maties",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 120000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Aixada",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 4500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Toro",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Bendinat",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Figuera",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 114,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Cap des Gegant",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo den Pellisser",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 600,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Creu del rei en Jaume",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 80,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Castellot",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 180,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja del Mago",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 100,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Palmanova",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 70000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Penyes Rotges",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 450,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Buguenvil.lia",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Son Caliu",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 600,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Brogit",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 600,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja Gran de Tora",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 12000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Illetes",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 5000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Mal Entrador",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1950,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Xinxell",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Oli",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 160,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala en Guixar",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo ses Llises",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 50,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sa Punta Prima",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 125,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo den Monjo",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Costa den Blanes",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1800,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja Monte de Oro",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 82000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Magaluf",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 96000,
+    "lifeguard": true,
+    "parking": false,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Bany des Batle",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de sHostalet",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 260,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Calo de la Bella Dona",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Blanca",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Ses Pedreretes",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo des Geneto",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Clot des Moro",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Punta Negra",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 350,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de lOratori",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 20000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Palmira",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 24000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Santa Ponsa",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 100000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo de ses Gerres",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 240,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cova de sa Grava",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 600,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Comtessa",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Carregador",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 36000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Punta des Carregador",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 825,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Fornells",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 320,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo des Guix",
+    "location": "Calvia",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Estellencs",
+    "location": "Estellencs",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Can Pruaga",
+    "location": "Estellencs",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 900,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Gamba",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 210,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "El Penon",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Palma",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 230000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Roques de Cala Major",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 9000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Can Pere Antoni",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 15000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo de Son Caios",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2100,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Major",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 16000,
+    "lifeguard": true,
+    "parking": false,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Carnatge",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 54000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Estancia",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 8140,
+    "lifeguard": true,
+    "parking": false,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Ciutat Jardi",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 15750,
+    "lifeguard": true,
+    "parking": false,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Nova",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 240,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Calo des Grells",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Molinar",
+    "location": "Palma",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 20000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Marmassen",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala en Basset",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1000,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Platja Brismar",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 450,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cova Rotja",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 360,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Portet des Salinar",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 275,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala dEgos",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1750,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "Miramar",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala en Tio",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 375,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  },
+  {
+    "name": "La Cova den Fuster",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 300,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Cau de sArena",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 375,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Es Terrer",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 120,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Llamp",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2440,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Moragues",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1890,
+    "lifeguard": false,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Cranc",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 2250,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala de ses Ortigues",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1600,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": true,
+    "car_accesible": false
+  },
+  {
+    "name": "Punta de la Garra",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 5000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de ses Dones",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 1500,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja del Rei",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 180,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Punta Caracola",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 40,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Platja de Sant Elm",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 3900,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala sAlgar",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 400,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala es Conills",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 800,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Camp de Mar",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 12000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala Blanca",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 2055,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Sant Elm Petit",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 1200,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Cala en Fonoll",
+    "location": "Andratx",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "rock",
+    "surface_area_meters": 80,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Son Serra de Marina",
+    "location": "Santa Margalida",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 20000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Can Picafort",
+    "location": "Santa Margalida",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 39000,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Son Baulo",
+    "location": "Santa Margalida",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 5200,
+    "lifeguard": true,
+    "parking": true,
+    "showers": true,
+    "blue_flag": true,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Son Real",
+    "location": "Santa Margalida",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 30000,
+    "lifeguard": false,
+    "parking": true,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": true
+  },
+  {
+    "name": "Na Patana",
+    "location": "Santa Margalida",
+    "geo_location": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "type": "sand",
+    "surface_area_meters": 800,
+    "lifeguard": false,
+    "parking": false,
+    "showers": false,
+    "blue_flag": false,
+    "nudist": false,
+    "car_accesible": false
+  }
+]
