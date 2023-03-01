@@ -56,7 +56,5 @@ for idx, location in enumerate(locations):
         except:
             print(f"Could not scrape {location = }, {beach_name = }")
 
-beaches_json = json.dumps(beaches_data, indent=2)
-
 with open('beach_data.json', 'w') as file:
-    file.write(beaches_json)
+    file.write(json.dumps(beaches_data, indent=2))
