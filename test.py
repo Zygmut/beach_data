@@ -1,9 +1,5 @@
 import requests
 import json
-import time
-from geopy.geocoders import Nominatim
-#Distance Calculation, change radius in webpage
-from geopy.distance import great_circle
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 from functools import reduce
@@ -49,17 +45,8 @@ def getDictData(location:str, beach:str) -> dict:
             "car_accesible":    not get_service(soup, "CAMINATA")
             }
 
-
-# print(getDictData("Felanitx", "Cala d´en Marçal"))
-
 locations = list(set(map(lambda x: x['href'].split("/")[1].replace(".html", "") ,filter(lambda x: x['href'][0] == 'M' , BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/es/Mallorca.html").content, "html.parser").find_all("a", href=True)))))
 beaches = list(map(lambda place: list(set(map(lambda x: x['href'].split("/")[1].replace(".html", "") ,filter(lambda x: x['href'][0] == place[0] , BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/es/Mallorca/" + place + ".html").content, "html.parser").find_all("a", href=True))))),locations))
-
-acumulator = 0
-for beach_list in beaches:
-    acumulator += len(beach_list)
-
-print(acumulator)
 
 beaches_data = []
 for idx, location in enumerate(locations):
@@ -68,8 +55,6 @@ for idx, location in enumerate(locations):
             beaches_data.append(getDictData(location, beach_name))
         except:
             print(f"Could not scrape {location = }, {beach_name = }")
-
-
 
 beaches_json = json.dumps(beaches_data, indent=2)
 
