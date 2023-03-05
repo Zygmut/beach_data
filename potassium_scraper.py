@@ -105,10 +105,13 @@ locations = ['Palma' ,'Muro', 'Alcudia']
 beaches = list(map(lambda place: list(set(map(lambda x: x['href'].split("/")[1].replace(".html", "") ,filter(lambda x: x['href'][0] == place[0] , BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/es/Mallorca/" + place + ".html").content, "html.parser").find_all("a", href=True))))),locations))
 
 beaches_data = []
+
 for idx, location in enumerate(locations):
     for beach_name in beaches[idx]:
         create_dir(f"./photos/{location}/{beach_name}")
         beaches_data.append(getDictData(location, beach_name))
 
 with open('beach_data.json', 'w') as file:
-    file.write(json.dumps(beaches_data, indent=2))
+    file.write(json.dumps({"@context": "http://schema.org",
+                           "@type": "itemList",
+                           "itemListElement": beaches_data}, indent=2))
