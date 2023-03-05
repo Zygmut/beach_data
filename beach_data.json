@@ -4,38 +4,28 @@
   "itemListElement": [
     {
       "@type": "Beach",
-      "@id": 0,
-      "name": "Can Pere Antoni",
+      "@identifier": 0,
+      "name": "Ciutat Jardi",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "C'an Pere Antoni es una playa de arena situada en Palma, es la m\u00e1s pr\u00f3xima al centro. Tiene dos zonas de aparcamiento. Una para unos 30 veh\u00edculos y la segunda para unos 60. Est\u00e1 en una zona de buenos restaurantes y de pisos de lujo. Tambi\u00e9n pr\u00f3xima al club n\u00e1utico del portixol.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "C'an Pere Antoni \u00e9s una platja de sorra situada a Palma, \u00e9s la m\u00e9s propera al centre. T\u00e9 dues zones d'aparcament. Una per uns 30 vehicles i la segona per uns 60. Est\u00e0 en una zona de bons restaurants i de pisos de luxe. Tamb\u00e9 propera al club n\u00e0utic del Portixol.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Ca'n Pere Antoni is a sand beach located in Palma, it's one of the closest beaches to the city centre. It provides with two parking areas. One for about 30 vehicles and the second one for about 60. It's an area with good restaurants and luxury flats. It is also close to Portitxol yacht club.\r\n"
-        }
+        "Ciutat Jard\u00ed es una playa de arena situada en la barriada del Coll d'en Rabassa, Palma. Es un lugar muy frecuentado por palmesanos por su cercan\u00eda a la ciudad. \r\n",
+        "Ciutat Jard\u00ed \u00e9s una platja de sorra situada en la barriada del Coll d'en Rabassa, Palma. \u00c9s un lloc molt freq\u00fcentat pels palmesans per la seva proximitat a la ciutat.   \r\n",
+        "Ciutat Jard\u00ed is a sandy beach located in the neighbourhood of  'Es Coll de'n Rabassa', Palma. It's a place usually frequented by people coming from Palma  for  its proximity to the city.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Palma"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -44,156 +34,7 @@
           "url",
           "url"
         ],
-        "video": "https://www.youtube.com/watch?v=qSSGOJ_gQy0"
-      },
-      "keywords": [
-        "arena",
-        "servicio_de_socorro",
-        "aparcamiento",
-        "duchas"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 1,
-      "name": "Calo de Son Caios",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Cal\u00f3 de son Caios es una peque\u00f1a cala de rocas situada en la urbanizaci\u00f3n de C'an Pastilla, Palma. Hay un paseo bordeando este lugar y es poco frecuentado por tener varias playas de arena muy cerca.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Cal\u00f3 de son Caios \u00e9s una petita cala de roques situada a la urbanitzaci\u00f3 de C'an Pastilla, Palma. Hi ha un passeig vorejant aquest lloc i \u00e9s poc freq\u00fcentat per tenir diverses platges de sorra molt a prop.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Cal\u00f3 de son Caios is a small cove of rocks located in Ca'n Pastilla neighbourhood, Palma. There's a walkway all along this place and not so crowded as there are some sand beaches around.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Palma"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=OP5MqMKciuA"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 2,
-      "name": "Calo des Grells",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Cal\u00f3 d'es Grells es una peque\u00f1a cala de piedra y rocas situada al final del Paseo Mar\u00edtimo hacia Andratx, en Palma. Es un lugar en Palma, limpio y poco concurrido.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Cal\u00f3 d'es Grells \u00e9s una petita cala de pedra i roques situada al final del passeig mar\u00edtim cap a Andratx, a Palma. \u00c9s un lloc a Palma net i poc concorregut.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Cal\u00f3 d'es Grells is a small cove of stone and rocks located at the end of 'Paseo Mar\u00edtimo' towards Andratx. It's a clean and crowded place in Palma.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Palma"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=USHPsTrqmJ8"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 3,
-      "name": "Cala Major",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Cala Major es una cala de arena situada entre las zonas de Porto Pi y San Agust\u00edn. Est\u00e1 rodeada de edificios y no se ve desde la carretera. Es una zona muy tur\u00edstica.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Cala Major \u00e9s una cala de sorra situada entre les zones de Porto Pi i Sant Agust\u00edn. Est\u00e0 envoltada d'edificis i no es veu des de la carretera. \u00c9s una zona molt tur\u00edstica.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Cala Major is a cove of sand located between the areas of Porto P\u00ed and San Agust\u00edn. It is surrounded by buildings and it can't be seen from the road. It's a popular tourist area.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Palma"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=lxDdqhEBwns"
+        "video": "https://www.youtube.com/watch?v=l0LYsjTxm_w"
       },
       "keywords": [
         "arena",
@@ -203,89 +44,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 4,
-      "name": "Cala Estancia",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Cala Est\u00e0ncia es una playa de arena situada en C'an Pastilla, Palma. Est\u00e1 pr\u00f3xima a un club n\u00e1utico y es una zona muy tur\u00edstica.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Cala Est\u00e0ncia \u00e9s una platja de sorra situada en C'an Pastilla, Palma. Est\u00e0 propera a un club n\u00e0utic i \u00e9s una zona molt tur\u00edstica.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Cala Est\u00e0ncia is a beach of sand located in Ca'n Pastilla, Palma. It's close to the yacht club and it's a popular touristic area.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Palma"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=ZnJJtybN6Wg"
-      },
-      "keywords": [
-        "arena",
-        "servicio_de_socorro",
-        "duchas",
-        "bandera_azul"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 5,
+      "@identifier": 1,
       "name": "Es Molinar",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Es Molinar es una zona de varias calas peque\u00f1as de arena y piedras. La zona costera ronda los 2 km con un bonito paseo con carril bici que une el Arenal con Palma. Al atardecer suele estar lleno de gente y hay muy buenos restaurantes.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Es Molinar \u00e9s una zona de diverses cales petites de sorra i pedres. La zona costanera ronda els 2 km amb un bonic passeig amb carril bici que uneix l'Arenal amb Palma. Al capvespre sol estar ple de gent i hi ha molt bons restaurants.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Es Molinar is an area with several small sand and stone coves. The coastal area is about 2km long with a nice promenade provided with cycle paths connecting 'el Arenal' to Palma. At dusk it's usually crowded and there are many good restaurants.\r\n"
-        }
+        "Es Molinar es una zona de varias calas peque\u00f1as de arena y piedras. La zona costera ronda los 2 km con un bonito paseo con carril bici que une el Arenal con Palma. Al atardecer suele estar lleno de gente y hay muy buenos restaurantes.\r\n",
+        "Es Molinar \u00e9s una zona de diverses cales petites de sorra i pedres. La zona costanera ronda els 2 km amb un bonic passeig amb carril bici que uneix l'Arenal amb Palma. Al capvespre sol estar ple de gent i hi ha molt bons restaurants.  \r\n",
+        "Es Molinar is an area with several small sand and stone coves. The coastal area is about 2km long with a nice promenade provided with cycle paths connecting 'el Arenal' to Palma. At dusk it's usually crowded and there are many good restaurants.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Palma"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -304,235 +84,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 6,
-      "name": "Cala Nova",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Cala Nova es una cala de arena y rocas situada en la zona de San Agust\u00edn, en Palma. En temporada alta es dif\u00edcil encontar aparcamiento. Es una cala muy agradable y pr\u00f3xima a Palma.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Cala Nova \u00e9s una cala de sorra i roques situada a la zona de Sant Agust\u00edn, a Palma. En temporada alta \u00e9s dif\u00edcil trobar aparcament. \u00c9s una cala molt agradable i propera a Palma.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Cala Nova is a cove of sand and rocks located in the area of San Agust\u00edn, Palma. In high season it is difficult to find place to park. It's a nice cove and close to Palma.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Palma"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=u3ErFv34dnA"
-      },
-      "keywords": [
-        "arena",
-        "aparcamiento",
-        "duchas"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 7,
-      "name": "Roques de Cala Major",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Roques de Cala Major es un punto de ba\u00f1o s\u00f3lo de rocas situado poco antes de llegar a la urbanizaci\u00f3n de San Agust\u00edn, en Palma. Hay zonas preparadas para salir del agua.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Roques de Cala Major \u00e9s un punt de bany nom\u00e9s de roques situat poc abans d'arribar a la urbanitzaci\u00f3 de Sant Agust\u00edn, a Palma. Hi ha zones preparades per sortir de l'aigua.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Roques de Cala Major is a bathing spot of only rocks located  just before arriving at San Agust\u00edn neighbourhood, in Palma. It's provided with suitable access areas to get out of the water.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Palma"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=5g2fd5kJnW4"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 8,
-      "name": "Cala Gamba",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Cala Gamba es una playa peque\u00f1a situada en el barrio Es Coll d'en Rabassa, en Palma. Est\u00e1 pr\u00f3xima a un club n\u00e1utico y es frecuentada por pescadores. Pasa mucha gente por el paseo haciendo deporte o caminando. \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Cala Gamba \u00e9s una platja petita situada al barri Es Coll d'en Rabassa, a Palma. Est\u00e0 propera a un club n\u00e0utic i \u00e9s freq\u00fcentada per pescadors. Passen moltes persones pel passeig fent esport o caminant.   \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Cala Gamba is a small beach located in Es Coll d'en Rebassa neighbourhood, in Palma. It is close to a yacht club and is frequented by fishermen. A lot of people can be seen doing some sport and walking all along the way. \r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Palma"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=n5SSka_draM"
-      },
-      "keywords": [
-        "arena",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 9,
-      "name": "El Penon",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "El Pe\u00f1\u00f3n es una playa de arena y zona de roca en los extremos situada en el barrio del Coll d'en Rabassa, en Palma. Tiene tres accesos, uno es peatonal desde Ciutat Jard\u00ed, otro es por una escalera desde el aparcamiento, el tercero es desde el paseo de Cala Gamba.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "El Pe\u00f1\u00f3n \u00e9s una platja de sorra i zona de roca en els extrems situada al barri del Coll d'en Rabassa, a Palma. T\u00e9 tres accessos, un \u00e9s per als vianants des de Ciutat Jard\u00ed, un altre \u00e9s per una escala des de l'aparcament, el tercer \u00e9s des del passeig de Cala Gamba.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "El pe\u00f1\u00f3n' is a sandy beach with rock areas at the ends located in the neighbourhood of 'Es Coll de'n Rabassa' in Palma. It has three ways of access, one is walking from Ciutat Jard\u00ed, another one is by a stairway from the car park and the third one from Cala Gamba promenade.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Palma"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=A_llkpOX32k"
-      },
-      "keywords": [
-        "arena",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 10,
+      "@identifier": 2,
       "name": "Platja de Palma",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja de Palma es una playa de arena blanca situada en la costa este de Palma. Es una zona muy tur\u00edstica donde hay mucho ambiente tando de d\u00eda como de noche. Paseo muy amplio con todo tipo de servicios.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja de Palma \u00e9s una platja de sorra blanca situada en la costa est de Palma. \u00c9s una zona molt tur\u00edstica on hi ha molt ambient tan de dia com de nit. Passeig molt ampli amb tot tipus de serveis.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Platja de Palma is a beach of white sand located in the east coast of Palma. It's a popular tourist area with great atmosphere both during the day and at night. Wide promenade with all kind of amenities.\r\n"
-        }
+        "Platja de Palma es una playa de arena blanca situada en la costa este de Palma. Es una zona muy tur\u00edstica donde hay mucho ambiente tando de d\u00eda como de noche. Paseo muy amplio con todo tipo de servicios.\r\n",
+        "Platja de Palma \u00e9s una platja de sorra blanca situada en la costa est de Palma. \u00c9s una zona molt tur\u00edstica on hi ha molt ambient tan de dia com de nit. Passeig molt ampli amb tot tipus de serveis.  \r\n",
+        "Platja de Palma is a beach of white sand located in the east coast of Palma. It's a popular tourist area with great atmosphere both during the day and at night. Wide promenade with all kind of amenities.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Palma"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -552,38 +125,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 11,
-      "name": "Ciutat Jardi",
+      "@identifier": 3,
+      "name": "El Penon",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Ciutat Jard\u00ed es una playa de arena situada en la barriada del Coll d'en Rabassa, Palma. Es un lugar muy frecuentado por palmesanos por su cercan\u00eda a la ciudad. \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Ciutat Jard\u00ed \u00e9s una platja de sorra situada en la barriada del Coll d'en Rabassa, Palma. \u00c9s un lloc molt freq\u00fcentat pels palmesans per la seva proximitat a la ciutat.   \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Ciutat Jard\u00ed is a sandy beach located in the neighbourhood of  'Es Coll de'n Rabassa', Palma. It's a place usually frequented by people coming from Palma  for  its proximity to the city.\r\n"
-        }
+        "El Pe\u00f1\u00f3n es una playa de arena y zona de roca en los extremos situada en el barrio del Coll d'en Rabassa, en Palma. Tiene tres accesos, uno es peatonal desde Ciutat Jard\u00ed, otro es por una escalera desde el aparcamiento, el tercero es desde el paseo de Cala Gamba.\r\n",
+        "El Pe\u00f1\u00f3n \u00e9s una platja de sorra i zona de roca en els extrems situada al barri del Coll d'en Rabassa, a Palma. T\u00e9 tres accessos, un \u00e9s per als vianants des de Ciutat Jard\u00ed, un altre \u00e9s per una escala des de l'aparcament, el tercer \u00e9s des del passeig de Cala Gamba.  \r\n",
+        "El pe\u00f1\u00f3n' is a sandy beach with rock areas at the ends located in the neighbourhood of 'Es Coll de'n Rabassa' in Palma. It has three ways of access, one is walking from Ciutat Jard\u00ed, another one is by a stairway from the car park and the third one from Cala Gamba promenade.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Palma"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -592,48 +155,37 @@
           "url",
           "url"
         ],
-        "video": "https://www.youtube.com/watch?v=l0LYsjTxm_w"
+        "video": "https://www.youtube.com/watch?v=A_llkpOX32k"
       },
       "keywords": [
         "arena",
-        "servicio_de_socorro",
-        "duchas"
+        "aparcamiento"
       ]
     },
     {
       "@type": "Beach",
-      "@id": 12,
+      "@identifier": 4,
       "name": "Es Carnatge",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Es Carnatge es una zona de rocas situado entre el Coll d'en Rabassa y C'an Pastilla, Palma. Es una zona bonita con un paseo preparado con carril bici y con zonas de descanso. Se pueden ver pescadores y lugare\u00f1os en sus aguas.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Es Carnatge \u00e9s una zona de roques situat entre el Coll d'en Rabassa i C'an Pastilla, Palma. \u00c9s una zona bonica amb un passeig preparat amb carril bici i amb zones de descans. Es poden veure pescadors i vilatans en les seves aig\u00fces.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Es Carnatge is a rocky area located between es Coll de'n Rabassa and Ca'n Pastilla, Palma. It's a nice place with a promenade provided with cycle paths and rest areas. Fishermen and locals can be seen in their waters.\r\n"
-        }
+        "Es Carnatge es una zona de rocas situado entre el Coll d'en Rabassa y C'an Pastilla, Palma. Es una zona bonita con un paseo preparado con carril bici y con zonas de descanso. Se pueden ver pescadores y lugare\u00f1os en sus aguas.\r\n",
+        "Es Carnatge \u00e9s una zona de roques situat entre el Coll d'en Rabassa i C'an Pastilla, Palma. \u00c9s una zona bonica amb un passeig preparat amb carril bici i amb zones de descans. Es poden veure pescadors i vilatans en les seves aig\u00fces.  \r\n",
+        "Es Carnatge is a rocky area located between es Coll de'n Rabassa and Ca'n Pastilla, Palma. It's a nice place with a promenade provided with cycle paths and rest areas. Fishermen and locals can be seen in their waters.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Palma"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -650,38 +202,346 @@
     },
     {
       "@type": "Beach",
-      "@id": 13,
-      "name": "Platja de Muro- Sector I",
+      "@identifier": 5,
+      "name": "Can Pere Antoni",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja de Muro, sector I es una playa de arena kilom\u00e9trica. Est\u00e1 situada en Muro, zona muy tur\u00edstica pero de playas muy bien cuidadas.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja de Muro, sector I, \u00e9s una platja de sorra quilom\u00e8trica. Est\u00e0 situada a Muro, zona molt tur\u00edstica per\u00f2 de platges molt b\u00e9 cuidades.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "\nPlatja de Muro, sector I is an endless sandy beach. It is located in Muro, very touristy area but with very well cared for beaches.\r\n"
-        }
+        "C'an Pere Antoni es una playa de arena situada en Palma, es la m\u00e1s pr\u00f3xima al centro. Tiene dos zonas de aparcamiento. Una para unos 30 veh\u00edculos y la segunda para unos 60. Est\u00e1 en una zona de buenos restaurantes y de pisos de lujo. Tambi\u00e9n pr\u00f3xima al club n\u00e1utico del portixol.\r\n",
+        "C'an Pere Antoni \u00e9s una platja de sorra situada a Palma, \u00e9s la m\u00e9s propera al centre. T\u00e9 dues zones d'aparcament. Una per uns 30 vehicles i la segona per uns 60. Est\u00e0 en una zona de bons restaurants i de pisos de luxe. Tamb\u00e9 propera al club n\u00e0utic del Portixol.  \r\n",
+        "Ca'n Pere Antoni is a sand beach located in Palma, it's one of the closest beaches to the city centre. It provides with two parking areas. One for about 30 vehicles and the second one for about 60. It's an area with good restaurants and luxury flats. It is also close to Portitxol yacht club.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Palma"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=qSSGOJ_gQy0"
+      },
+      "keywords": [
+        "arena",
+        "servicio_de_socorro",
+        "aparcamiento",
+        "duchas"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 6,
+      "name": "Calo des Grells",
+      "description": [
+        "Cal\u00f3 d'es Grells es una peque\u00f1a cala de piedra y rocas situada al final del Paseo Mar\u00edtimo hacia Andratx, en Palma. Es un lugar en Palma, limpio y poco concurrido.\r\n",
+        "Cal\u00f3 d'es Grells \u00e9s una petita cala de pedra i roques situada al final del passeig mar\u00edtim cap a Andratx, a Palma. \u00c9s un lloc a Palma net i poc concorregut.  \r\n",
+        "Cal\u00f3 d'es Grells is a small cove of stone and rocks located at the end of 'Paseo Mar\u00edtimo' towards Andratx. It's a clean and crowded place in Palma.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Palma"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=USHPsTrqmJ8"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 7,
+      "name": "Cala Nova",
+      "description": [
+        "Cala Nova es una cala de arena y rocas situada en la zona de San Agust\u00edn, en Palma. En temporada alta es dif\u00edcil encontar aparcamiento. Es una cala muy agradable y pr\u00f3xima a Palma.\r\n",
+        "Cala Nova \u00e9s una cala de sorra i roques situada a la zona de Sant Agust\u00edn, a Palma. En temporada alta \u00e9s dif\u00edcil trobar aparcament. \u00c9s una cala molt agradable i propera a Palma.  \r\n",
+        "Cala Nova is a cove of sand and rocks located in the area of San Agust\u00edn, Palma. In high season it is difficult to find place to park. It's a nice cove and close to Palma.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Palma"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=u3ErFv34dnA"
+      },
+      "keywords": [
+        "arena",
+        "aparcamiento",
+        "duchas"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 8,
+      "name": "Cala Major",
+      "description": [
+        "Cala Major es una cala de arena situada entre las zonas de Porto Pi y San Agust\u00edn. Est\u00e1 rodeada de edificios y no se ve desde la carretera. Es una zona muy tur\u00edstica.\r\n",
+        "Cala Major \u00e9s una cala de sorra situada entre les zones de Porto Pi i Sant Agust\u00edn. Est\u00e0 envoltada d'edificis i no es veu des de la carretera. \u00c9s una zona molt tur\u00edstica.  \r\n",
+        "Cala Major is a cove of sand located between the areas of Porto P\u00ed and San Agust\u00edn. It is surrounded by buildings and it can't be seen from the road. It's a popular tourist area.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Palma"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=lxDdqhEBwns"
+      },
+      "keywords": [
+        "arena",
+        "servicio_de_socorro",
+        "duchas"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 9,
+      "name": "Cala Gamba",
+      "description": [
+        "Cala Gamba es una playa peque\u00f1a situada en el barrio Es Coll d'en Rabassa, en Palma. Est\u00e1 pr\u00f3xima a un club n\u00e1utico y es frecuentada por pescadores. Pasa mucha gente por el paseo haciendo deporte o caminando. \r\n",
+        "Cala Gamba \u00e9s una platja petita situada al barri Es Coll d'en Rabassa, a Palma. Est\u00e0 propera a un club n\u00e0utic i \u00e9s freq\u00fcentada per pescadors. Passen moltes persones pel passeig fent esport o caminant.   \r\n",
+        "Cala Gamba is a small beach located in Es Coll d'en Rebassa neighbourhood, in Palma. It is close to a yacht club and is frequented by fishermen. A lot of people can be seen doing some sport and walking all along the way. \r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Palma"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=n5SSka_draM"
+      },
+      "keywords": [
+        "arena",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 10,
+      "name": "Roques de Cala Major",
+      "description": [
+        "Roques de Cala Major es un punto de ba\u00f1o s\u00f3lo de rocas situado poco antes de llegar a la urbanizaci\u00f3n de San Agust\u00edn, en Palma. Hay zonas preparadas para salir del agua.\r\n",
+        "Roques de Cala Major \u00e9s un punt de bany nom\u00e9s de roques situat poc abans d'arribar a la urbanitzaci\u00f3 de Sant Agust\u00edn, a Palma. Hi ha zones preparades per sortir de l'aigua.  \r\n",
+        "Roques de Cala Major is a bathing spot of only rocks located  just before arriving at San Agust\u00edn neighbourhood, in Palma. It's provided with suitable access areas to get out of the water.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Palma"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=5g2fd5kJnW4"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 11,
+      "name": "Cala Estancia",
+      "description": [
+        "Cala Est\u00e0ncia es una playa de arena situada en C'an Pastilla, Palma. Est\u00e1 pr\u00f3xima a un club n\u00e1utico y es una zona muy tur\u00edstica.\r\n",
+        "Cala Est\u00e0ncia \u00e9s una platja de sorra situada en C'an Pastilla, Palma. Est\u00e0 propera a un club n\u00e0utic i \u00e9s una zona molt tur\u00edstica.  \r\n",
+        "Cala Est\u00e0ncia is a beach of sand located in Ca'n Pastilla, Palma. It's close to the yacht club and it's a popular touristic area.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Palma"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=ZnJJtybN6Wg"
+      },
+      "keywords": [
+        "arena",
+        "servicio_de_socorro",
+        "duchas",
+        "bandera_azul"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 12,
+      "name": "Calo de Son Caios",
+      "description": [
+        "Cal\u00f3 de son Caios es una peque\u00f1a cala de rocas situada en la urbanizaci\u00f3n de C'an Pastilla, Palma. Hay un paseo bordeando este lugar y es poco frecuentado por tener varias playas de arena muy cerca.\r\n",
+        "Cal\u00f3 de son Caios \u00e9s una petita cala de roques situada a la urbanitzaci\u00f3 de C'an Pastilla, Palma. Hi ha un passeig vorejant aquest lloc i \u00e9s poc freq\u00fcentat per tenir diverses platges de sorra molt a prop.  \r\n",
+        "Cal\u00f3 de son Caios is a small cove of rocks located in Ca'n Pastilla neighbourhood, Palma. There's a walkway all along this place and not so crowded as there are some sand beaches around.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Palma"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=OP5MqMKciuA"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 13,
+      "name": "Platja de Muro- Sector I",
+      "description": [
+        "Platja de Muro, sector I es una playa de arena kilom\u00e9trica. Est\u00e1 situada en Muro, zona muy tur\u00edstica pero de playas muy bien cuidadas.\r\n",
+        "Platja de Muro, sector I, \u00e9s una platja de sorra quilom\u00e8trica. Est\u00e0 situada a Muro, zona molt tur\u00edstica per\u00f2 de platges molt b\u00e9 cuidades.  \r\n",
+        "\nPlatja de Muro, sector I is an endless sandy beach. It is located in Muro, very touristy area but with very well cared for beaches.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Muro"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -702,88 +562,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 14,
-      "name": "Platja de Muro-Es Capellans",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Es Capellans es una playa de arena blanca y fina situada en Muro. Es menos frecuentada que sus hermanas Sector I y II. Muy limpia y de aguas cristalinas.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "\u00c9s Capellans \u00e9s una platja de sorra blanca i fina situada a Muro. \u00c9s menys freq\u00fcentada que les seves germanes Sector I i II. Molt neta i d'aig\u00fces cristal\u00b7lines.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "\nEs Capellans is a beach of fine white sand located in Muro. It is less visited than its twins Sector I and II. Very clean with crystal clear waters.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Muro"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=7HAcZ5DrWU4"
-      },
-      "keywords": [
-        "arena",
-        "servicio_de_socorro",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 15,
+      "@identifier": 14,
       "name": "Platja de Muro-Es  Comu",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja de Muro, es Com\u00fa es una playa de arena blanca y fina situada en Muro. Es muy tur\u00edstica pero menos abarrotada que las otras dos playas de Muro, sector I y II. \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja de Muro, Es Com\u00fa, \u00e9s una platja de sorra blanca i fina situada a Muro. \u00c9s molt tur\u00edstica per\u00f2 menys abarrotada que les altres dues platges de Muro, sector I i II.   \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "\nPlatja de Muro, es Com\u00fa is a beach of fine white sand located in Muro. It is very touristy but less crowded than the other two beaches in Muro, sector I and II.\r\n"
-        }
+        "Platja de Muro, es Com\u00fa es una playa de arena blanca y fina situada en Muro. Es muy tur\u00edstica pero menos abarrotada que las otras dos playas de Muro, sector I y II. \r\n",
+        "Platja de Muro, Es Com\u00fa, \u00e9s una platja de sorra blanca i fina situada a Muro. \u00c9s molt tur\u00edstica per\u00f2 menys abarrotada que les altres dues platges de Muro, sector I i II.   \r\n",
+        "\nPlatja de Muro, es Com\u00fa is a beach of fine white sand located in Muro. It is very touristy but less crowded than the other two beaches in Muro, sector I and II.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Muro"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -802,38 +602,68 @@
     },
     {
       "@type": "Beach",
-      "@id": 16,
-      "name": "Platja de Muro- Sector II",
+      "@identifier": 15,
+      "name": "Platja de Muro-Es Capellans",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja de Muro, sector II es una playa de arena blanca y fina muy bien cuidada a pesar de la gran cantidad de gente que la visita. Est\u00e1 situada en Muro, zona muy tur\u00edstica.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja de Muro, sector II, \u00e9s una platja de sorra blanca i fina molt b\u00e9 cuidada malgrat la gran quantitat de gent que la visita. Est\u00e0 situada a Muro, zona molt tur\u00edstica.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "\nPlatja de Muro, sector II is beach of fine white sand as well as very well kept despite the large number of people visiting it. It is located in Muro, very touristy area.\r\n"
-        }
+        "Es Capellans es una playa de arena blanca y fina situada en Muro. Es menos frecuentada que sus hermanas Sector I y II. Muy limpia y de aguas cristalinas.\r\n",
+        "\u00c9s Capellans \u00e9s una platja de sorra blanca i fina situada a Muro. \u00c9s menys freq\u00fcentada que les seves germanes Sector I i II. Molt neta i d'aig\u00fces cristal\u00b7lines.  \r\n",
+        "\nEs Capellans is a beach of fine white sand located in Muro. It is less visited than its twins Sector I and II. Very clean with crystal clear waters.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Muro"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=7HAcZ5DrWU4"
+      },
+      "keywords": [
+        "arena",
+        "servicio_de_socorro",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 16,
+      "name": "Platja de Muro- Sector II",
+      "description": [
+        "Platja de Muro, sector II es una playa de arena blanca y fina muy bien cuidada a pesar de la gran cantidad de gente que la visita. Est\u00e1 situada en Muro, zona muy tur\u00edstica.\r\n",
+        "Platja de Muro, sector II, \u00e9s una platja de sorra blanca i fina molt b\u00e9 cuidada malgrat la gran quantitat de gent que la visita. Est\u00e0 situada a Muro, zona molt tur\u00edstica.  \r\n",
+        "\nPlatja de Muro, sector II is beach of fine white sand as well as very well kept despite the large number of people visiting it. It is located in Muro, very touristy area.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Muro"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -852,185 +682,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 17,
-      "name": "Ses Pedretes",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Ses Pedretes o Caleta dels Frares es una zona de rocas que termina en una peque\u00f1a cala. Se accede por unas escaleras. Detr\u00e1s tiene una zona de pinar.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Ses Pedretes o Caleta dels Frares \u00e9s una zona de roques que acaba en una petita cala. S'hi accedeix per unes escales. Darrere t\u00e9 una zona de pineda.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Ses Pedretes or Caleta dels Frares is a rocky area that ends in a small cove. It is accessed by some stairs. It has a pine forest behind.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=sz3EQJSpxqE"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 18,
-      "name": "Can Cap de Bou",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Cap de Bou es una playa de arena situada a unos 2,5 km de Alc\u00fadia. Es una playa muy estrecha y cercana a la carretera. Tiene unas rocas separando la arena del carril bici.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Cap de Bou \u00e9s una platja de sorra situada a uns 2,5 km d'Alc\u00fadia. \u00c9s una platja molt estreta i propera a la carretera. T\u00e9 unes roques separant la sorra del carril bici.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Cap de Bou is a sandy beach located about 2.5 km away from Alc\u00fadia. It is a very narrow beach close to the road. It has some rocks separating the sand from the cycle path.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=Wu8r7frhGjs"
-      },
-      "keywords": [
-        "arena",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 19,
-      "name": "Sa Punta de sa Vinya",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Sa Punta de sa Vinya es una zona de grava pr\u00f3ximo a la playa de la Alcanada en Alc\u00fadia. Es un lugar poco frecuentado de paso a Es Faray\u00f3.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Sa Punta de sa Vinya \u00e9s una zona de grava prop de la platja de la Alcanada a Alc\u00fadia. \u00c9s un lloc poc freq\u00fcentat de pas a Es Faray\u00f3.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Sa Punta de sa Vinya is an area of gravel close to the beach of Alcanada in Alc\u00fadia.It is a rarely visited place on the way to Es Faray\u00f3.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=pwxmP0H8-fI"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 20,
+      "@identifier": 17,
       "name": "Platja de Sant Pere",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja de sant Pere es una playa de arena y rocas situada en la urbanizaci\u00f3n Es Mal Pas, en Alc\u00fadia. Es una playa peque\u00f1a y bonita con una zona m\u00e1s estrecha de entrada a la zona de ba\u00f1o.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja de sant Pere \u00e9s una platja de sorra i roques situada a la urbanitzaci\u00f3 Es Mal Pas, en Alc\u00fadia. \u00c9s una platja petita i bonica amb una zona m\u00e9s estreta d'entrada a la zona de bany.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Platja de sant Pere is a beach of sand and rocks located in El Mal Pas development, in Alc\u00fadia. It is a small and beautiful beach with a narrower area to enter the swimming area.\r\n"
-        }
+        "Platja de sant Pere es una playa de arena y rocas situada en la urbanizaci\u00f3n Es Mal Pas, en Alc\u00fadia. Es una playa peque\u00f1a y bonita con una zona m\u00e1s estrecha de entrada a la zona de ba\u00f1o.\r\n",
+        "Platja de sant Pere \u00e9s una platja de sorra i roques situada a la urbanitzaci\u00f3 Es Mal Pas, en Alc\u00fadia. \u00c9s una platja petita i bonica amb una zona m\u00e9s estreta d'entrada a la zona de bany.  \r\n",
+        "Platja de sant Pere is a beach of sand and rocks located in El Mal Pas development, in Alc\u00fadia. It is a small and beautiful beach with a narrower area to enter the swimming area.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Alc\u00fadia"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -1049,332 +722,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 21,
-      "name": "Ses Pedreres",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Ses Pedreres es una linea de costa con varios puntos de ba\u00f1o habilitados, algunos de arena pero la mayor\u00eda son de hormig\u00f3n o roca. Est\u00e1 cerca de Cala Punset y es menos frecuentado.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Ses Pedreres \u00e9s una l\u00ednia de costa amb diversos punts de bany habilitats, alguns de sorra per\u00f2 la majoria s\u00f3n de formig\u00f3 o roca. \u00c9s a prop de Cala Punset i \u00e9s menys freq\u00fcentat.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Ses Pedreres is a coastline with several enabled swimming areas, some of sand but most of them of concrete or rock. It is near Cala Punset and it is less frequented.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=iHhTlpINqTI"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 22,
-      "name": "Platja de lAlcanada",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja de l'Alcanada es una playa de piedras situada en la urbanizaci\u00f3n de la Alcanada, cerca del port d'Alc\u00fadia. Tiene cerca un islote con un faro, y depende de donde nos situemos en la playa la podremos ver.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja de l'Alcanada \u00e9s una platja de pedres situada a la urbanitzaci\u00f3 de l'Alcanada, prop del port d'Alc\u00fadia. T\u00e9 a prop un illot amb un far, i dep\u00e8n d'on ens situem a la platja la podrem veure.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Platja d'Alcanada is a rocky beach located in the development of Alcanada, near the Port of Alc\u00fadia. It has an islet near with a lighthouse, and depending on where we place ourselves on the beach we will be able to see it.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=cc9McDgBbOg"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 23,
-      "name": "Cala Punset",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Cala Punset es una cala de arena y grava cerca de la playa de la Alcanada en Alc\u00fadia. Es una cala limpia, concurrida y en temporada alta es complicado encontrar aparcamiento.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Cala Punset \u00e9s una cala de sorra i grava prop de la platja de l'Alcanada a Alc\u00fadia. \u00c9s una cala neta, concorreguda i en temporada alta \u00e9s complicat trobar aparcament.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Cala Punset is a coveof sand and gravel near the beach of Alcanada in Alc\u00fadia. It is a clean, busy cove and in high season it is hard to find parking.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=waGPZphyzqQ"
-      },
-      "keywords": [
-        "arena",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 24,
-      "name": "Sa Ferradura",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Sa Ferradura es una peque\u00f1a cala de grava y rocas situado cerca de s'Illot en Alc\u00fadia. Es un lugar poco frecuentado porque no se ve desde la carretera. Se llega a esta cala siguiendo un sendero de 250 metros desde el Rac\u00f3 de ses Barreres de sa Comuna.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Sa Ferradura \u00e9s una petita cala de grava i roques a prop de s'Illot a Alc\u00fadia. \u00c9s un lloc poc freq\u00fcentat perqu\u00e8 no es veu des de la carretera. S'arriba a aquesta cala seguint un sender de 250 metres des del Rac\u00f3 de ses Barreres de sa Comuna.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Sa Ferradura is a small cove of gravel and rocks located near s'Illot in Alc\u00fadia. It is an unfrequented place as it isn't visible from the road. This cove is reached by following a path 250 metres long from El Rac\u00f3 de ses Barreres de sa Comuna.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=XC0mARvhvvM"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 25,
-      "name": "LEstrella",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "L'Estrella es una cala de piedra y rocas situada a pocos minutos de s'Illot en Alc\u00fadia.  Es un lugar muy tranquilo y limpio donde se necesita calzado apropiado para entrar en el agua.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "L'Estrella \u00e9s una cala de pedra i roques situada a pocs minuts de s'Illot a Alc\u00fadia. \u00c9s un lloc molt tranquil i net on es necessita cal\u00e7at apropiat per entrar a l'aigua.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "L'Estrella is a cove of stone and rocks a few minutes away from s'Illot in Alc\u00fadia. It is a very quiet and clean place where a proper footwear is needed to enter the water.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=wuxogCF4oKY"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 26,
-      "name": "Sa Punta Llarga",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Sa Punta Llarga es una cala de grava y rocas situada pr\u00f3xima a s'Illot en Alc\u00fadia, en la zona de la Victoria. Es un lugar muy tranquilo de aguas limpias.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Sa Punta Llarga \u00e9s una cala de grava i roques situada pr\u00f2xima a s'Illot a Alc\u00fadia, a la zona de la Vict\u00f2ria. \u00c9s un lloc molt tranquil d'aig\u00fces netes.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Sa Punta Llarga is a cove of gravel and rocks located close to s'Illot in Alc\u00fadia, in the area of La Victoria. It is a very quiet place with clean water.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=UGTaRr1EhhA"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 27,
+      "@identifier": 18,
       "name": "Platja dels cecs",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja dels Cecs es una playa virgen de piedra  y rocas situada muy cerca de la playa de la Alcanada en Alc\u00fadia. Es un lugar poco frecuentado con vistas a la isla de la Alcanada.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja dels Cecs \u00e9s una platja verge de pedra i roques situada molt a prop de la platja de l'Alcanada a Alc\u00fadia. \u00c9s un lloc poc freq\u00fcentat amb vistes a l'illa de l'Alcanada.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Platja dels Cecs is a virgin beach of stones and rocks located near the beach of Alcanada in Alc\u00fadia. It is an unfrequented place with views to the island of Alcanada.\r\n"
-        }
+        "Platja dels Cecs es una playa virgen de piedra  y rocas situada muy cerca de la playa de la Alcanada en Alc\u00fadia. Es un lugar poco frecuentado con vistas a la isla de la Alcanada.\r\n",
+        "Platja dels Cecs \u00e9s una platja verge de pedra i roques situada molt a prop de la platja de l'Alcanada a Alc\u00fadia. \u00c9s un lloc poc freq\u00fcentat amb vistes a l'illa de l'Alcanada.\r\n",
+        "Platja dels Cecs is a virgin beach of stones and rocks located near the beach of Alcanada in Alc\u00fadia. It is an unfrequented place with views to the island of Alcanada.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Alc\u00fadia"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -1392,38 +761,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 28,
-      "name": "Es Farayo",
+      "@identifier": 19,
+      "name": "SIllot",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Es Faray\u00f3 es una zona con dos calas de grava cerca de la playa de la Alcanada en Alc\u00fadia. El aparcamiento es el mismo que para la playa de la Alcanada, luego debemos continuar un sendero 1,5 km aproximadamente.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Es Faray\u00f3 \u00e9s una zona amb dues cales de grava prop de la platja de la Alcanada a Alc\u00fadia. L'aparcament \u00e9s el mateix que per a la platja de la Alcanada, despr\u00e9s hem de continuar un sender 1,5 km aproximadament.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Es Faray\u00f3 is an area with two coves of gravel near the beach of Alcanada in Alc\u00fadia. The parking is the same as for the beach of Alcanada, then we have to walk on a path for about 1.5 km.\r\n"
-        }
+        "S'Illot es una cala de piedras situada aproximadamente a 2,5 km de la urbanizaci\u00f3n El Mal Pas, en Alc\u00fadia. Es un lugar precioso con un islote a pocos metros de la orilla, se puede ir caminando y subirse a la isla. Lugar muy bonito con una peque\u00f1a cueva.\r\n",
+        "S'Illot \u00e9s una cala de pedres situada aproximadament a 2,5 km de la urbanitzaci\u00f3 El Mal Pas, a Alc\u00fadia. \u00c9s un lloc preci\u00f3s amb un illot a pocs metres de la riba, es pot anar caminant i pujar-se a l'illot on hi ha una petita cova.  \r\n",
+        "S'Illot is a cove of stones located approximately 2.5 km away from El Mal Pas development, in Alc\u00fadia. It is a lovely place with an islet to scanty metres of the seashore, you can go walking and go up the island. Nice place with a small cave.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Alc\u00fadia"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -1432,47 +791,427 @@
           "url",
           "url"
         ],
-        "video": "https://www.youtube.com/watch?v=ii3SmCQ1nLU"
+        "video": "https://www.youtube.com/watch?v=2VrT4kXHTcU"
       },
       "keywords": [
         "roca",
-        "caminata"
+        "aparcamiento"
       ]
     },
     {
       "@type": "Beach",
-      "@id": 29,
-      "name": "Platja dAlcudia",
+      "@identifier": 20,
+      "name": "Cala Punset",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja d'Alc\u00fadia es una extensa playa de arena blanca y fina situada en Alc\u00fadia. El acceso a la playa es r\u00e1pido, no tanto el encontrar aparcamiento.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja d'Alc\u00fadia \u00e9s una extensa platja de sorra blanca i fina situada a Alc\u00fadia. L'acc\u00e9s a la platja \u00e9s r\u00e0pid, no tant el trobar aparcament.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Platja d'Alc\u00fadia is an extensive beach of fine and white sand located in Alc\u00fadia. The access to the beach is quick, but not so much to find parking.\r\n"
-        }
+        "Cala Punset es una cala de arena y grava cerca de la playa de la Alcanada en Alc\u00fadia. Es una cala limpia, concurrida y en temporada alta es complicado encontrar aparcamiento.\r\n",
+        "Cala Punset \u00e9s una cala de sorra i grava prop de la platja de l'Alcanada a Alc\u00fadia. \u00c9s una cala neta, concorreguda i en temporada alta \u00e9s complicat trobar aparcament.\r\n",
+        "Cala Punset is a coveof sand and gravel near the beach of Alcanada in Alc\u00fadia. It is a clean, busy cove and in high season it is hard to find parking.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Alc\u00fadia"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=waGPZphyzqQ"
+      },
+      "keywords": [
+        "arena",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 21,
+      "name": "Raco de ses Barreres de sa Comuna",
+      "description": [
+        "El Rac\u00f3 de ses Barreres de sa Comuna es una peque\u00f1a cala de arena, piedra y rocas situada cerca de s'Illot en Alc\u00fadia. Es una de las calas m\u00e1s frecuentadas de la zona pero a\u00fan as\u00ed no es masificada. El acceso a la cala se hace por debajo del puente, por lo que no es necesario cruzar la carretera.\r\n",
+        "El Rac\u00f3 de ses Barreres de sa Comuna \u00e9s una petita cala de sorra, pedra i roques situada prop de s'Illot a Alc\u00fadia. \u00c9s una de les cales m\u00e9s freq\u00fcentades de la zona per\u00f2 tot i aix\u00ed no \u00e9s massificada. L'acc\u00e9s a la cala es fa per sota del pont, de manera que no cal creuar la carretera.\r\n",
+        "El Rac\u00f3 de ses Barreres de sa Comuna is a small cove of sand, stone and rocks located near s'Illot in Alc\u00fadia. It is one of the most frequented coves in the area but even so, it is not overcrowded.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=2qjGD3RyEVk"
+      },
+      "keywords": [
+        "arena",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 22,
+      "name": "Ses Pedretes",
+      "description": [
+        "Ses Pedretes o Caleta dels Frares es una zona de rocas que termina en una peque\u00f1a cala. Se accede por unas escaleras. Detr\u00e1s tiene una zona de pinar.\r\n",
+        "Ses Pedretes o Caleta dels Frares \u00e9s una zona de roques que acaba en una petita cala. S'hi accedeix per unes escales. Darrere t\u00e9 una zona de pineda.\r\n",
+        "Ses Pedretes or Caleta dels Frares is a rocky area that ends in a small cove. It is accessed by some stairs. It has a pine forest behind.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=sz3EQJSpxqE"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 23,
+      "name": "Sa Punta Llarga",
+      "description": [
+        "Sa Punta Llarga es una cala de grava y rocas situada pr\u00f3xima a s'Illot en Alc\u00fadia, en la zona de la Victoria. Es un lugar muy tranquilo de aguas limpias.\r\n",
+        "Sa Punta Llarga \u00e9s una cala de grava i roques situada pr\u00f2xima a s'Illot a Alc\u00fadia, a la zona de la Vict\u00f2ria. \u00c9s un lloc molt tranquil d'aig\u00fces netes.\r\n",
+        "Sa Punta Llarga is a cove of gravel and rocks located close to s'Illot in Alc\u00fadia, in the area of La Victoria. It is a very quiet place with clean water.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=UGTaRr1EhhA"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 24,
+      "name": "Platja sa Marina",
+      "description": [
+        "Platja de sa Marina es una playa de arena situada en Alc\u00fadia. Es un lugar donde acuden amantes al surf y deportes donde necesitan viento o buen oleaje.\r\n",
+        "Platja de sa Marina \u00e9s una platja de sorra situada a Alc\u00fadia. \u00c9s un lloc on acudeixen amants al surf i esports on necessiten vent o bon onatge.  \r\n",
+        "Platja de sa Marina is a beach of sand located in Alc\u00fadia. It is a place where the lovers of surf and sports requiring wind and good waves go.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=j7s_jnTgcn8"
+      },
+      "keywords": [
+        "arena",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 25,
+      "name": "Ses Pedreres",
+      "description": [
+        "Ses Pedreres es una linea de costa con varios puntos de ba\u00f1o habilitados, algunos de arena pero la mayor\u00eda son de hormig\u00f3n o roca. Est\u00e1 cerca de Cala Punset y es menos frecuentado.\r\n",
+        "Ses Pedreres \u00e9s una l\u00ednia de costa amb diversos punts de bany habilitats, alguns de sorra per\u00f2 la majoria s\u00f3n de formig\u00f3 o roca. \u00c9s a prop de Cala Punset i \u00e9s menys freq\u00fcentat.\r\n",
+        "Ses Pedreres is a coastline with several enabled swimming areas, some of sand but most of them of concrete or rock. It is near Cala Punset and it is less frequented.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=iHhTlpINqTI"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 26,
+      "name": "Sa Punta de sa Vinya",
+      "description": [
+        "Sa Punta de sa Vinya es una zona de grava pr\u00f3ximo a la playa de la Alcanada en Alc\u00fadia. Es un lugar poco frecuentado de paso a Es Faray\u00f3.\r\n",
+        "Sa Punta de sa Vinya \u00e9s una zona de grava prop de la platja de la Alcanada a Alc\u00fadia. \u00c9s un lloc poc freq\u00fcentat de pas a Es Faray\u00f3.\r\n",
+        "Sa Punta de sa Vinya is an area of gravel close to the beach of Alcanada in Alc\u00fadia.It is a rarely visited place on the way to Es Faray\u00f3.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=pwxmP0H8-fI"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 27,
+      "name": "Sa Ferradura",
+      "description": [
+        "Sa Ferradura es una peque\u00f1a cala de grava y rocas situado cerca de s'Illot en Alc\u00fadia. Es un lugar poco frecuentado porque no se ve desde la carretera. Se llega a esta cala siguiendo un sendero de 250 metros desde el Rac\u00f3 de ses Barreres de sa Comuna.\r\n",
+        "Sa Ferradura \u00e9s una petita cala de grava i roques a prop de s'Illot a Alc\u00fadia. \u00c9s un lloc poc freq\u00fcentat perqu\u00e8 no es veu des de la carretera. S'arriba a aquesta cala seguint un sender de 250 metres des del Rac\u00f3 de ses Barreres de sa Comuna.\r\n",
+        "Sa Ferradura is a small cove of gravel and rocks located near s'Illot in Alc\u00fadia. It is an unfrequented place as it isn't visible from the road. This cove is reached by following a path 250 metres long from El Rac\u00f3 de ses Barreres de sa Comuna.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=XC0mARvhvvM"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 28,
+      "name": "LEstrella",
+      "description": [
+        "L'Estrella es una cala de piedra y rocas situada a pocos minutos de s'Illot en Alc\u00fadia.  Es un lugar muy tranquilo y limpio donde se necesita calzado apropiado para entrar en el agua.\r\n",
+        "L'Estrella \u00e9s una cala de pedra i roques situada a pocs minuts de s'Illot a Alc\u00fadia. \u00c9s un lloc molt tranquil i net on es necessita cal\u00e7at apropiat per entrar a l'aigua.\r\n",
+        "L'Estrella is a cove of stone and rocks a few minutes away from s'Illot in Alc\u00fadia. It is a very quiet and clean place where a proper footwear is needed to enter the water.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=wuxogCF4oKY"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 29,
+      "name": "Coll Baix",
+      "description": [
+        "Coll Baix es una cala de piedras situada a unos 8 km de Alc\u00fadia. Desde el aparcamiento hay un sendero sencillo que se complica un poco en el \u00faltimo tramo bordeando la costa. Sendero serpenteante, desde el inicio hasta la cala hay unos 20 minutos.\r\n",
+        "Coll Baix \u00e9s una cala de pedres situada a uns 8 km d'Alc\u00fadia. Des de l'aparcament hi ha un sender senzilla que es complica una mica en l'\u00faltim tram vorejant la costa.  \r\n",
+        "Coll Baix is a cove of stones located 8 km away from Alc\u00fadia. From the parking there is a simple path that gets a bit complicated in the last stretch along the coast.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=OI5jWFFllzM"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 30,
+      "name": "Platja dAlcudia",
+      "description": [
+        "Platja d'Alc\u00fadia es una extensa playa de arena blanca y fina situada en Alc\u00fadia. El acceso a la playa es r\u00e1pido, no tanto el encontrar aparcamiento.\r\n",
+        "Platja d'Alc\u00fadia \u00e9s una extensa platja de sorra blanca i fina situada a Alc\u00fadia. L'acc\u00e9s a la platja \u00e9s r\u00e0pid, no tant el trobar aparcament.  \r\n",
+        "Platja d'Alc\u00fadia is an extensive beach of fine and white sand located in Alc\u00fadia. The access to the beach is quick, but not so much to find parking.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -1492,38 +1231,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 30,
-      "name": "Raco de ses Barreres de sa Comuna",
+      "@identifier": 31,
+      "name": "Es Farayo",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "El Rac\u00f3 de ses Barreres de sa Comuna es una peque\u00f1a cala de arena, piedra y rocas situada cerca de s'Illot en Alc\u00fadia. Es una de las calas m\u00e1s frecuentadas de la zona pero a\u00fan as\u00ed no es masificada. El acceso a la cala se hace por debajo del puente, por lo que no es necesario cruzar la carretera.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "El Rac\u00f3 de ses Barreres de sa Comuna \u00e9s una petita cala de sorra, pedra i roques situada prop de s'Illot a Alc\u00fadia. \u00c9s una de les cales m\u00e9s freq\u00fcentades de la zona per\u00f2 tot i aix\u00ed no \u00e9s massificada. L'acc\u00e9s a la cala es fa per sota del pont, de manera que no cal creuar la carretera.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "El Rac\u00f3 de ses Barreres de sa Comuna is a small cove of sand, stone and rocks located near s'Illot in Alc\u00fadia. It is one of the most frequented coves in the area but even so, it is not overcrowded.\r\n"
-        }
+        "Es Faray\u00f3 es una zona con dos calas de grava cerca de la playa de la Alcanada en Alc\u00fadia. El aparcamiento es el mismo que para la playa de la Alcanada, luego debemos continuar un sendero 1,5 km aproximadamente.\r\n",
+        "Es Faray\u00f3 \u00e9s una zona amb dues cales de grava prop de la platja de la Alcanada a Alc\u00fadia. L'aparcament \u00e9s el mateix que per a la platja de la Alcanada, despr\u00e9s hem de continuar un sender 1,5 km aproximadament.\r\n",
+        "Es Faray\u00f3 is an area with two coves of gravel near the beach of Alcanada in Alc\u00fadia. The parking is the same as for the beach of Alcanada, then we have to walk on a path for about 1.5 km.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Alc\u00fadia"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -1532,47 +1261,76 @@
           "url",
           "url"
         ],
-        "video": "https://www.youtube.com/watch?v=2qjGD3RyEVk"
+        "video": "https://www.youtube.com/watch?v=ii3SmCQ1nLU"
       },
       "keywords": [
-        "arena",
-        "aparcamiento"
+        "roca",
+        "caminata"
       ]
     },
     {
       "@type": "Beach",
-      "@id": 31,
-      "name": "El Niu de sAguila",
+      "@identifier": 32,
+      "name": "Platja de lAlcanada",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "El Niu de s'\u00c0guila es una cala de piedra y rocas situada a 2,8 km de la playa de s'Illot, Alc\u00fadia. Es un lugar tranquilo frecuentado s\u00f3lo por barcos. Aguas cristalinas.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "El Niu de s'\u00c0guila \u00e9s una cala de pedra i roques situada a 2,8 km de la platja de s'Illot, Alc\u00fadia. \u00c9s un lloc tranquil freq\u00fcentat nom\u00e9s per vaixells. Aig\u00fces cristal.lines.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "El Niu de s'\u00c0guila is a cove of stone and rocks located 2.8 km far from s'Illot beach, in Alc\u00fadia. It is a quiet place only frequented by boats. Crystal clear waters.\r\n"
-        }
+        "Platja de l'Alcanada es una playa de piedras situada en la urbanizaci\u00f3n de la Alcanada, cerca del port d'Alc\u00fadia. Tiene cerca un islote con un faro, y depende de donde nos situemos en la playa la podremos ver.\r\n",
+        "Platja de l'Alcanada \u00e9s una platja de pedres situada a la urbanitzaci\u00f3 de l'Alcanada, prop del port d'Alc\u00fadia. T\u00e9 a prop un illot amb un far, i dep\u00e8n d'on ens situem a la platja la podrem veure.  \r\n",
+        "Platja d'Alcanada is a rocky beach located in the development of Alcanada, near the Port of Alc\u00fadia. It has an islet near with a lighthouse, and depending on where we place ourselves on the beach we will be able to see it.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Alc\u00fadia"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
+      ],
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "audio": [
+          "url",
+          "url",
+          "url"
+        ],
+        "video": "https://www.youtube.com/watch?v=cc9McDgBbOg"
+      },
+      "keywords": [
+        "roca",
+        "aparcamiento"
+      ]
+    },
+    {
+      "@type": "Beach",
+      "@identifier": 33,
+      "name": "El Niu de sAguila",
+      "description": [
+        "El Niu de s'\u00c0guila es una cala de piedra y rocas situada a 2,8 km de la playa de s'Illot, Alc\u00fadia. Es un lugar tranquilo frecuentado s\u00f3lo por barcos. Aguas cristalinas.\r\n",
+        "El Niu de s'\u00c0guila \u00e9s una cala de pedra i roques situada a 2,8 km de la platja de s'Illot, Alc\u00fadia. \u00c9s un lloc tranquil freq\u00fcentat nom\u00e9s per vaixells. Aig\u00fces cristal.lines.\r\n",
+        "El Niu de s'\u00c0guila is a cove of stone and rocks located 2.8 km far from s'Illot beach, in Alc\u00fadia. It is a quiet place only frequented by boats. Crystal clear waters.\r\n"
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "ES",
+          "addressRegion": "Mallorca",
+          "addressLocality": "Alc\u00fadia"
+        },
+        "latitude": 0,
+        "longitude": 0
+      },
+      "photo": [
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -1590,38 +1348,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 32,
-      "name": "Coll Baix",
+      "@identifier": 34,
+      "name": "Platja des Morer Vermell",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Coll Baix es una cala de piedras situada a unos 8 km de Alc\u00fadia. Desde el aparcamiento hay un sendero sencillo que se complica un poco en el \u00faltimo tramo bordeando la costa. Sendero serpenteante, desde el inicio hasta la cala hay unos 20 minutos.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Coll Baix \u00e9s una cala de pedres situada a uns 8 km d'Alc\u00fadia. Des de l'aparcament hi ha un sender senzilla que es complica una mica en l'\u00faltim tram vorejant la costa.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Coll Baix is a cove of stones located 8 km away from Alc\u00fadia. From the parking there is a simple path that gets a bit complicated in the last stretch along the coast.\r\n"
-        }
+        "Es Morer Vermell es una playa de arena situada a escasos 2 km de Alc\u00fadia. Es una playa tur\u00edstica muy cercana a hoteles. Muy limpia pero sin servicios.\r\n",
+        "Es Morer Vermell \u00e9s una platja de sorra situat a escassos 2 km de Alc\u00fadia. \u00c9s una platja tur\u00edstica molt propera a hotels. Molt neta per\u00f2 sense serveis.  \r\n",
+        "Es Morer Vermell is a sandy beach located to scanty metres of Alc\u00fadia. It is a touristy beach very close to hotels. Very clean but with no services.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Alc\u00fadia"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -1630,105 +1378,7 @@
           "url",
           "url"
         ],
-        "video": "https://www.youtube.com/watch?v=OI5jWFFllzM"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 33,
-      "name": "SIllot",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "S'Illot es una cala de piedras situada aproximadamente a 2,5 km de la urbanizaci\u00f3n El Mal Pas, en Alc\u00fadia. Es un lugar precioso con un islote a pocos metros de la orilla, se puede ir caminando y subirse a la isla. Lugar muy bonito con una peque\u00f1a cueva.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "S'Illot \u00e9s una cala de pedres situada aproximadament a 2,5 km de la urbanitzaci\u00f3 El Mal Pas, a Alc\u00fadia. \u00c9s un lloc preci\u00f3s amb un illot a pocs metres de la riba, es pot anar caminant i pujar-se a l'illot on hi ha una petita cova.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "S'Illot is a cove of stones located approximately 2.5 km away from El Mal Pas development, in Alc\u00fadia. It is a lovely place with an islet to scanty metres of the seashore, you can go walking and go up the island. Nice place with a small cave.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=2VrT4kXHTcU"
-      },
-      "keywords": [
-        "roca",
-        "aparcamiento"
-      ]
-    },
-    {
-      "@type": "Beach",
-      "@id": 34,
-      "name": "Platja sa Marina",
-      "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja de sa Marina es una playa de arena situada en Alc\u00fadia. Es un lugar donde acuden amantes al surf y deportes donde necesitan viento o buen oleaje.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja de sa Marina \u00e9s una platja de sorra situada a Alc\u00fadia. \u00c9s un lloc on acudeixen amants al surf i esports on necessiten vent o bon onatge.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Platja de sa Marina is a beach of sand located in Alc\u00fadia. It is a place where the lovers of surf and sports requiring wind and good waves go.\r\n"
-        }
-      ],
-      "geo": {
-        "@type": "GeoCoordinates",
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ES",
-          "addressLocality": "Alc\u00fadia"
-        },
-        "latitude": 0,
-        "longitude": 0
-      },
-      "photo": [
-        "abc.org",
-        "abc.org"
-      ],
-      "subjectOf": {
-        "@type": "CreativeWork",
-        "audio": [
-          "url",
-          "url",
-          "url"
-        ],
-        "video": "https://www.youtube.com/watch?v=j7s_jnTgcn8"
+        "video": "https://www.youtube.com/watch?v=wUCui9LaFHI"
       },
       "keywords": [
         "arena",
@@ -1737,38 +1387,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 35,
+      "@identifier": 35,
       "name": "Platja de Sant Joan",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Platja de Sant Joan es una bonita playa de arena y rocas situada en Alc\u00fadia. Es una zona donde acuden muchos lugare\u00f1os y turistas y a\u00fan as\u00ed est\u00e1 muy limpia. \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Platja de Sant Joan \u00e9s una bonica platja de sorra i roques situada a Alc\u00fadia. \u00c9s una zona on acudeixen molts vilatans i turistes i encara aix\u00ed est\u00e0 molt neta.   \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Platja de Sant Joan is a beautiful beach of sand and rocks located in Alc\u00fadia. It is an area where lots of locals and tourists go and even so it is very clean.\r\n"
-        }
+        "Platja de Sant Joan es una bonita playa de arena y rocas situada en Alc\u00fadia. Es una zona donde acuden muchos lugare\u00f1os y turistas y a\u00fan as\u00ed est\u00e1 muy limpia. \r\n",
+        "Platja de Sant Joan \u00e9s una bonica platja de sorra i roques situada a Alc\u00fadia. \u00c9s una zona on acudeixen molts vilatans i turistes i encara aix\u00ed est\u00e0 molt neta.   \r\n",
+        "Platja de Sant Joan is a beautiful beach of sand and rocks located in Alc\u00fadia. It is an area where lots of locals and tourists go and even so it is very clean.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Alc\u00fadia"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -1788,38 +1428,28 @@
     },
     {
       "@type": "Beach",
-      "@id": 36,
-      "name": "Platja des Morer Vermell",
+      "@identifier": 36,
+      "name": "Can Cap de Bou",
       "description": [
-        {
-          "@type": "Language",
-          "name": "Spanish",
-          "description": "Es Morer Vermell es una playa de arena situada a escasos 2 km de Alc\u00fadia. Es una playa tur\u00edstica muy cercana a hoteles. Muy limpia pero sin servicios.\r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "Catalan",
-          "description": "Es Morer Vermell \u00e9s una platja de sorra situat a escassos 2 km de Alc\u00fadia. \u00c9s una platja tur\u00edstica molt propera a hotels. Molt neta per\u00f2 sense serveis.  \r\n"
-        },
-        {
-          "@type": "Language",
-          "name": "English",
-          "description": "Es Morer Vermell is a sandy beach located to scanty metres of Alc\u00fadia. It is a touristy beach very close to hotels. Very clean but with no services.\r\n"
-        }
+        "Cap de Bou es una playa de arena situada a unos 2,5 km de Alc\u00fadia. Es una playa muy estrecha y cercana a la carretera. Tiene unas rocas separando la arena del carril bici.\r\n",
+        "Cap de Bou \u00e9s una platja de sorra situada a uns 2,5 km d'Alc\u00fadia. \u00c9s una platja molt estreta i propera a la carretera. T\u00e9 unes roques separant la sorra del carril bici.  \r\n",
+        "Cap de Bou is a sandy beach located about 2.5 km away from Alc\u00fadia. It is a very narrow beach close to the road. It has some rocks separating the sand from the cycle path.\r\n"
       ],
       "geo": {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": "Alc\u00fadia"
         },
         "latitude": 0,
         "longitude": 0
       },
       "photo": [
-        "abc.org",
-        "abc.org"
+        "url",
+        "url",
+        "url"
       ],
       "subjectOf": {
         "@type": "CreativeWork",
@@ -1828,7 +1458,7 @@
           "url",
           "url"
         ],
-        "video": "https://www.youtube.com/watch?v=wUCui9LaFHI"
+        "video": "https://www.youtube.com/watch?v=Wu8r7frhGjs"
       },
       "keywords": [
         "arena",

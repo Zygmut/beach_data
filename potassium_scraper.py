@@ -5,6 +5,15 @@ from PIL import Image
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 
+def get_photos(location: str, beach_name: str, n_photos: int):
+    try:
+      for n in range(1, n_photos+1):
+        img = Image.open(requests.get("http://www.disfrutalaplaya.com/es/Mallorca/"+ location + "/" + ("" if beach_name.lower().startswith("playa-") else "playa-") + beach_name.replace(" ", "-") + "/fullsize/" + str(n) + ".jpg", stream=True).raw)
+        w, h = img.size
+        img.crop((0, 0, w-175, h)).save(f"./photos/{location}/{beach_name}/{n}.jpg")
+    except:
+      return
+
 def getDictData(id: int, location:str, beach:str) -> dict:
     def sanitize_string(string:str) -> str:
         return unidecode(string.replace("´", "").replace("'", "").replace("ç", "s"))
@@ -29,51 +38,30 @@ def getDictData(id: int, location:str, beach:str) -> dict:
     def get_video(soup: BeautifulSoup) -> str:
         return "https://www.youtube.com/watch?v=" + soup.find("iframe", title="YouTube video player")['src'].split("/")[-1]
 
-    def get_photos(location: str, beach_name: str, n_photos: int):
-        for n in range(1, n_photos+1):
-          try:
-            img = Image.open(requests.get("http://www.disfrutalaplaya.com/es/Mallorca/"+ sanitize_string(location) + "/" + ("" if beach.lower().startswith("playa-") else "playa-") + sanitize_string(beach).replace(" ", "-") + "/fullsize/" + str(n) + ".jpg", stream=True).raw)
-            w, h = img.size
-            img.crop((0, 0, w-175, h)).save(f"./photos/{location}/{beach_name}/{n}.jpg")
-          except:
-            continue
 
     # Parse the HTML content using BeautifulSoup
     soup = BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/es/Mallorca/"+ sanitize_string(location) + "/" + ("" if beach.lower().startswith("playa-") else "playa-") + sanitize_string(beach).replace(" ", "-") + ".html").content, "html.parser")
 
-    get_photos(location, beach_name, 6)
+    get_photos(sanitize_string(location), sanitize_string(beach), 6)
     return {
       "@type": "Beach",
-      "@id": id,
+      "@identifier": id,
       "name": sanitize_string(get_beach_name(soup)),
       "description": [
-          {
-            "@type": "Language",
-            "name": "Spanish",
-            "description": get_beach_description(soup),
-          },
-          {
-            "@type": "Language",
-            "name": "Catalan",
-            "description": get_beach_description(BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/ct/Mallorca/"+ sanitize_string(location) + "/" + ("" if beach.lower().startswith("playa-") else "playa-") + sanitize_string(beach).replace(" ", "-") + ".html").content, "html.parser")),
-          },
-          {
-            "@type": "Language",
-            "name": "English",
-            "description": get_beach_description(BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/en/Mallorca/"+ sanitize_string(location) + "/" + ("" if beach.lower().startswith("playa-") else "playa-") + sanitize_string(beach).replace(" ", "-") + ".html").content, "html.parser")),
-          },
+          get_beach_description(soup), get_beach_description(BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/ct/Mallorca/"+ sanitize_string(location) + "/" + ("" if beach.lower().startswith("playa-") else "playa-") + sanitize_string(beach).replace(" ", "-") + ".html").content, "html.parser")),get_beach_description(BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/en/Mallorca/"+ sanitize_string(location) + "/" + ("" if beach.lower().startswith("playa-") else "playa-") + sanitize_string(beach).replace(" ", "-") + ".html").content, "html.parser")),
         ],
       "geo" : {
         "@type": "GeoCoordinates",
         "address": {
           "@type": "PostalAddress",
           "addressCountry": "ES",
+          "addressRegion": "Mallorca",
           "addressLocality": get_beach_location(soup)
         },
         "latitude": 0,
         "longitude": 0
       },
-      "photo": ["abc.org", "abc.org"],
+      "photo": ["url", "url", "url"],
       "subjectOf": {
         "@type": "CreativeWork",
         "audio": ["url", "url", "url"],
@@ -106,6 +94,12 @@ for idx, location in enumerate(locations):
         create_dir(f"./photos/{location}/{beach_name}")
         beaches_data.append(getDictData(acumulator, location, beach_name))
         acumulator += 1
+
+# Outlier
+for n in range(1, 7):
+  img = Image.open(requests.get(f"http://www.disfrutalaplaya.com/es/Mallorca/Palma/Can-Pere-Antoni/fullsize/{n}.jpg", stream=True).raw)
+  w, h = img.size
+  img.crop((0, 0, w-175, h)).save(f"./photos/Palma/Playa-Can-Pere-Antoni/{n}.jpg")
 
 with open('beach_data.json', 'w') as file:
     file.write(json.dumps({"@context": "http://schema.org",
