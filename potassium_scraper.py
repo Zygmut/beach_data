@@ -5,7 +5,7 @@ from PIL import Image
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 
-def getDictData(location:str, beach:str) -> dict:
+def getDictData(id: int, location:str, beach:str) -> dict:
     def sanitize_string(string:str) -> str:
         return unidecode(string.replace("´", "").replace("'", "").replace("ç", "s"))
 
@@ -44,6 +44,7 @@ def getDictData(location:str, beach:str) -> dict:
     get_photos(location, beach_name, 6)
     return {
       "@type": "Beach",
+      "@id": id,
       "name": sanitize_string(get_beach_name(soup)),
       "description": [
           {
@@ -62,12 +63,6 @@ def getDictData(location:str, beach:str) -> dict:
             "description": get_beach_description(BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/en/Mallorca/"+ sanitize_string(location) + "/" + ("" if beach.lower().startswith("playa-") else "playa-") + sanitize_string(beach).replace(" ", "-") + ".html").content, "html.parser")),
           },
         ],
-      # Esto se debería calcular on the spot
-      "agregateRating": {
-        "@type": "AggregateRating",
-        "ratingCount":"",
-        "ReviewCount":""
-      },
       "geo" : {
         "@type": "GeoCoordinates",
         "address": {
@@ -105,11 +100,12 @@ locations = ['Palma' ,'Muro', 'Alcudia']
 beaches = list(map(lambda place: list(set(map(lambda x: x['href'].split("/")[1].replace(".html", "") ,filter(lambda x: x['href'][0] == place[0] , BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/es/Mallorca/" + place + ".html").content, "html.parser").find_all("a", href=True))))),locations))
 
 beaches_data = []
-
+acumulator = 0
 for idx, location in enumerate(locations):
     for beach_name in beaches[idx]:
         create_dir(f"./photos/{location}/{beach_name}")
-        beaches_data.append(getDictData(location, beach_name))
+        beaches_data.append(getDictData(acumulator, location, beach_name))
+        acumulator += 1
 
 with open('beach_data.json', 'w') as file:
     file.write(json.dumps({"@context": "http://schema.org",
