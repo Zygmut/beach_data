@@ -1,0 +1,4 @@
+Pillow
+bs4
+unidecode
+requests
