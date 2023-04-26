@@ -14,7 +14,7 @@ def get_photos(location: str, beach_name: str, n_photos: int):
     except:
       return
 
-def getDictData(id: int, location:str, beach:str) -> dict:
+def get_dict_data(id: int, location:str, beach:str) -> dict:
     def sanitize_string(string:str) -> str:
         return unidecode(string.replace("´", "").replace("'", "").replace("ç", "s"))
 
@@ -42,7 +42,7 @@ def getDictData(id: int, location:str, beach:str) -> dict:
     # Parse the HTML content using BeautifulSoup
     soup = BeautifulSoup(requests.get("http://www.disfrutalaplaya.com/es/Mallorca/"+ sanitize_string(location) + "/" + ("" if beach.lower().startswith("playa-") else "playa-") + sanitize_string(beach).replace(" ", "-") + ".html").content, "html.parser")
 
-    get_photos(sanitize_string(location), sanitize_string(beach), 6)
+    get_photos(sanitize_string(location), sanitize_string(beach), 3)
     return {
       "@type": "Beach",
       "@identifier": id,
@@ -91,8 +91,8 @@ beaches_data = []
 acumulator = 0
 for idx, location in enumerate(locations):
     for beach_name in beaches[idx]:
-        create_dir(f"./photos/{location}/{beach_name}")
-        beaches_data.append(getDictData(acumulator, location, beach_name))
+        create_dir(f"./.out/{location}/{beach_name}")
+        beaches_data.append(get_dict_data(acumulator, location, beach_name))
         acumulator += 1
 
 # Outlier
