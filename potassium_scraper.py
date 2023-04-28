@@ -10,11 +10,12 @@ def get_photos(location: str, beach_name: str, n_photos: int):
       for n in range(1, n_photos+1):
         img = Image.open(requests.get("http://www.disfrutalaplaya.com/es/Mallorca/"+ location + "/" + ("" if beach_name.lower().startswith("playa-") else "playa-") + beach_name.replace(" ", "-") + "/fullsize/" + str(n) + ".jpg", stream=True).raw)
         w, h = img.size
-        img.crop((0, 0, w-175, h)).save(f"./photos/{location}/{beach_name}/{n}.jpg")
+        img.crop((0, 0, w-175, h)).save(f"./.out/{location}/{beach_name}/{n}.webp", format="webp")
     except:
       return
 
 def get_dict_data(id: int, location:str, beach:str) -> dict:
+    print(f"Executing from {location = } {beach = }")
     def sanitize_string(string:str) -> str:
         return unidecode(string.replace("´", "").replace("'", "").replace("ç", "s"))
 
@@ -99,7 +100,7 @@ for idx, location in enumerate(locations):
 for n in range(1, 7):
   img = Image.open(requests.get(f"http://www.disfrutalaplaya.com/es/Mallorca/Palma/Can-Pere-Antoni/fullsize/{n}.jpg", stream=True).raw)
   w, h = img.size
-  img.crop((0, 0, w-175, h)).save(f"./photos/Palma/Playa-Can-Pere-Antoni/{n}.jpg")
+  img.crop((0, 0, w-175, h)).save(f"./.out/Palma/Playa-Can-Pere-Antoni/{n}.webp", format="webp")
 
 with open('beach_data.json', 'w') as file:
     file.write(json.dumps({"@context": "http://schema.org",
