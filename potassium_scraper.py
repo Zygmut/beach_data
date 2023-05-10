@@ -8,7 +8,7 @@ from unidecode import unidecode
 DEBUG = True
 
 
-def get_photos(location: str, beach_name: str, n_photos: int) -> [str]:
+def get_photos(location: str, beach_name: str, n_photos: int):
     photos = []
     try:
         for n in range(1, n_photos + 1):
@@ -181,11 +181,6 @@ def get_dict_data(id: int, location: str, beach: str) -> dict:
     }
 
 
-def create_dir(dir_path: str):
-    if not os.path.isdir(dir_path):
-        os.makedirs(dir_path)
-
-
 locations = list(
     set(
         map(
@@ -231,9 +226,9 @@ beaches_data = []
 acumulator = 0
 for idx, location in enumerate(locations):
     for beach_name in beaches[idx]:
-        create_dir(f"./.out/{location}/{beach_name}")
         data = get_dict_data(acumulator, location, beach_name)
-        beaches_data.append(data)
+        if data is not None:
+            beaches_data.append(data)
         acumulator += 1
 
 with open("beach_data.json", "w") as file:
