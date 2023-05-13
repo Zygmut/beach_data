@@ -8,11 +8,11 @@ from unidecode import unidecode
 DEBUG = True
 
 
-def get_photos(location: str, beach_name: str, n_photos: int):
+def get_photos(location: str, beach_name: str, n_photos: int) -> [str]:
     photos = []
     try:
         for n in range(1, n_photos + 1):
-            Image.open(
+            img = Image.open(
                 requests.get(
                     "http://www.disfrutalaplaya.com/es/Mallorca/"
                     + location
@@ -25,19 +25,17 @@ def get_photos(location: str, beach_name: str, n_photos: int):
                     stream=True,
                 ).raw
             )
+            w, h = img.size
+            img.crop((0, 0, w - 175, h)).save(
+                f"./.out/{location}/{beach_name}/{n}.webp", format="webp"
+            )
             photos.append(
-				                    "http://www.disfrutalaplaya.com/es/Mallorca/"
-                    + location
-                    + "/"
-                    + ("" if beach_name.lower().startswith("playa-") else "playa-")
-                    + beach_name.replace(" ", "-")
-                    + "/fullsize/"
-                    + str(n)
-                    + ".jpg"
-			)
-        return photos
-    except Exception:
-        return photos
+                f"https://www.guiaplayasmallorca.com/assets/{location}/{beach_name}/{n}.webp"
+            )
+    except:
+        pass
+
+    return photos
 
 
 def sanitize_string(string: str) -> str:
@@ -58,14 +56,16 @@ def get_beach_name(soup: BeautifulSoup) -> str:
         return str(soup.find_all("h1")[1].text).strip()
     except Exception:
         headers = soup.find_all("h1")
-        if(headers):
+        if headers:
             return str(soup.find_all("h1")[0].text).strip()
+
 
 def get_beach_description(soup: BeautifulSoup) -> str | None:
     try:
         return soup.find("div", {"class": "infor-historia"}).find_all("p")[0].text
     except Exception:
         return None
+
 
 # Servicio de playa
 def get_service(soup: BeautifulSoup, service: str) -> str:
@@ -75,6 +75,7 @@ def get_service(soup: BeautifulSoup, service: str) -> str:
         == "SI"
         else None
     )
+
 
 # Tipo de playa
 def get_beach_type(soup: BeautifulSoup) -> str:
@@ -110,7 +111,7 @@ def get_dict_data(id: int, location: str, beach: str) -> dict:
         "html.parser",
     )
     description = get_beach_description(soup)
-    if description is None :
+    if description is None:
         print(f"ERROR: Could not parse {beach = } at {location = }")
         return
 
@@ -161,7 +162,6 @@ def get_dict_data(id: int, location: str, beach: str) -> dict:
         "photo": photos,
         "subjectOf": {
             "@type": "CreativeWork",
-            "audio": ["url", "url", "url"],
             "video": get_video(soup),
         },
         "keywords": list(
@@ -181,6 +181,11 @@ def get_dict_data(id: int, location: str, beach: str) -> dict:
     }
 
 
+def create_dir(dir_path: str):
+    if not os.path.isdir(dir_path):
+        os.makedirs(dir_path)
+
+
 locations = list(
     set(
         map(
@@ -197,6 +202,7 @@ locations = list(
         )
     )
 )
+
 
 beaches = list(
     map(
@@ -226,10 +232,11 @@ beaches_data = []
 acumulator = 0
 for idx, location in enumerate(locations):
     for beach_name in beaches[idx]:
+        create_dir(f"./.out/{location}/{beach_name}")
         data = get_dict_data(acumulator, location, beach_name)
         if data is not None:
             beaches_data.append(data)
-        acumulator += 1
+            acumulator += 1
 
 with open("beach_data.json", "w") as file:
     file.write(
