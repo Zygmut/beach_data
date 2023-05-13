@@ -238,7 +238,7 @@ for idx, location in enumerate(locations):
             beaches_data.append(data)
             acumulator += 1
 
-with open("beach_data.json", "w") as file:
+with open("beach_data.json.raw", "w") as file:
     file.write(
         json.dumps(
             {
